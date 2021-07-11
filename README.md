@@ -1,6 +1,6 @@
 # Google Books React Search
 
-An application created using the MERN stack. The aapp allows users to search for books via the Google Books API. Users have the option to save and/or delete books.
+An application created using the MERN stack. The app allows users to search for books via the Google Books API. Users have the option to save and/or delete books.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -35,7 +35,7 @@ To start application, use the command below.
 
 ## App
 
-<a href="https://cryptic-savannah-37401.herokuapp.com/">Heroku website</a>
+<a href="https://afternoon-anchorage-21861.herokuapp.com/">Heroku website</a>
 
 ## License
 
